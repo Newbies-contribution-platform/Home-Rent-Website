@@ -29,3 +29,12 @@ nav ul li a{
 
 
 
+/* shopping card  */
+#card-container{
+    display: flex;
+    margin: 5%;
+    
+}
+.card{
+    margin-left: 20px;
+}
